@@ -1,0 +1,6 @@
+@CSM_APIs_HostAddress = http://localhost:5155
+
+GET {{CSM_APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
